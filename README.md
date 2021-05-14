@@ -1,4 +1,4 @@
-#WhatsApp Spamming Bot
+# WhatsApp Spamming Bot
 
 A online spammer using python to send message number of times to a particular receipient.
 <h4>Requirements : </h4>
@@ -10,4 +10,4 @@ A online spammer using python to send message number of times to a particular re
 <br>
 If package is not installed then type the following command.
 <br>
- > pip install Selenium
+* > pip install Selenium
