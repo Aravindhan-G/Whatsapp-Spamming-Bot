@@ -18,3 +18,4 @@ If package is not installed then type the following command.
 
 ## Driver Info :
 Please Check your web-browser version and download according to it.
+For Chrome Driver you can download from my repository.
