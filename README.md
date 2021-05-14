@@ -12,5 +12,5 @@ If package is not installed then type the following command.
 <br>
 
 > Windows :  pip install Selenium
-> 
+> >
 > Mac or Linux : pip3 install Selenium
