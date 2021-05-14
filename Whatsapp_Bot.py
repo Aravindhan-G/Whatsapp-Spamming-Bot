@@ -3,14 +3,14 @@
 Author      : Aravindhan.G
 Date        : 15-05-2021
 Platform    : Python
-Git-hub url : https://github.com/Aravindhan-G
+Git-hub url : github.com/Aravindhan-G
 
 '''
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-PATH = "C:\Program Files (x86)\chromedriver.exe"  # Path where your webdrive.exe is found
+PATH = " "  # Path where your webdrive.exe is found
 URL = "https://web.whatsapp.com" # URL of the whatsapp web
 
 class WhatsApp_Bot():
