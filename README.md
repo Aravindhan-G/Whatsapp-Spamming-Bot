@@ -14,3 +14,7 @@ If package is not installed then type the following command.
 > Windows :  pip install Selenium
 > 
 > Mac or Linux : pip3 install Selenium
+> 
+
+## Driver Info :
+Please Check your web-browser version and download according to it.
